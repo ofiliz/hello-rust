@@ -1,0 +1,7 @@
+[package]
+name = "guess_my_number"
+version = "0.1.0"
+authors = ["Onur Filiz <ofiliz@users.noreply.github.com>"]
+
+[dependencies]
+rand = "0.3.14"
